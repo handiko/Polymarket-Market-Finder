@@ -17,7 +17,7 @@ This script solves this issue by using Unix Timestamps to generate the expected 
 * ```request``` library
 
 ## Installation
-```bash
+```
 git clone https://github.com/handiko/Polymarket-Market-Finder.git
 cd Polymarket-Market-Finder
 pip install requests
@@ -25,12 +25,12 @@ pip install requests
 
 ## Usage
 Run the script directly from your terminal:
-```bash
+```
 python PolymarketMarketFinder.py
 ```
 
 ## Example Output
-```bash
+```
 --- Fetching Live Prices for Current Interval (UTC: 15:21:57) ---
 
 Asset: BTC 5m
