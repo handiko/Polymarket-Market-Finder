@@ -1,5 +1,5 @@
 # Polymarket Live Bitcoin (and Ethereum) Market Finder
-A Python utility to discover active Polymarket Bitcoin (BTC) 5-minute and 15-minute "Up/Down" prediction markets in real-time. (A demonstration)
+A Python utility to **deterministically** discover active Polymarket Bitcoin (BTC) 5-minute and 15-minute "Up/Down" prediction markets in real-time. (A demonstration)
 
 ## Motivation
 Traditional methods of polling the Gamma API to discover new markets often suffer from significant latency between the actual creation of a market on-chain and its indexing by the API.
